@@ -1,4 +1,4 @@
-# API Test Assignment
+# API Test Assignment [![CircleCI](https://circleci.com/gh/malithlk00/api-test-assignment/tree/master.svg?style=shield)](https://circleci.com/gh/malithlk00/api-test-assignment/tree/master)
 
 This is a BDD api test automation project created using Cucumber-JVM framework and Rest Assured. It contains a single scenario to verify the given acceptance criteria.
 
