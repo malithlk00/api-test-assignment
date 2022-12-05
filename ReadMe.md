@@ -63,7 +63,7 @@ git clone git@github.com:malithlk00/api-test-assignment.git
 ```
 Open the project
 ```ssh
-cd APIAssignment
+cd api-test-assignment
 ```
 Run the test
 ```ssh
